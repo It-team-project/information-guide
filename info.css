@@ -20,7 +20,7 @@ header{
   }
   .logo2{
     text-decoration: none;
-    color:#3a6cf4;
+    color:#BB4A4A;
     text-transform: uppercase;
     font-weight: 700;
     font-size:1.8em;
@@ -37,7 +37,7 @@ header{
 
 
 body{
-  background-image: url(pppp.jpeg);
+  background-image: url(images-project/background.jpg);
     display: flex;
     justify-content: center;
     align-items:center ;
@@ -149,6 +149,7 @@ letter-spacing: 1px;
 .footer p{
     font-size:1.3em;
     font-weight:600;
+    margin-right: 30px;
 
 }
 .footer p span{
